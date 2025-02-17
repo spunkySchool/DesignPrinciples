@@ -1,4 +1,5 @@
 // LogisticsCompany.java
+//factory design creational pattern
 public class LogisticsCompany {
 
     // Transport interface

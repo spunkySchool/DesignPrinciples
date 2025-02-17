@@ -1,6 +1,6 @@
 
     // Logger.java
-    //si
+    //singleton design creational pattern
 public class Logger {
     // Private static variable to hold the single instance
     private static Logger instance;
