@@ -1,5 +1,5 @@
 // FurnitureFactoryExample.java
-
+//abstract factory desiggn
 // Step 1: Define the Abstract Product Interfaces
 interface Chair {
     void sitOn(); // Method to use the chair
