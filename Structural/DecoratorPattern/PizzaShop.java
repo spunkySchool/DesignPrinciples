@@ -1,5 +1,8 @@
+//interface pizza -> BasePizza  & topping
+
+
 // Base component interface
- interface Pizza {
+interface Pizza {
     String getDescription();
     double getCost();
 }
@@ -17,7 +20,7 @@
     }
 }
 
-// Base decorator class
+// Base decorator class (is a and has a both relation)
  abstract class ToppingDecorator implements Pizza {
     protected Pizza pizza;
 
