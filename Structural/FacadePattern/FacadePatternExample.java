@@ -1,5 +1,6 @@
 package Structural.FacadePattern;
 
+//facade class is HomeTheatreFacade here which eventually has all subsystems  hence we provide it all subsystems in constructors
 public class FacadePatternExample {
     public static void main(String[] args) {
         // Create subsystem components
