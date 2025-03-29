@@ -1,5 +1,5 @@
 package BehaviouralPattern;
-
+//leads to different stratergies corresponding to a functionality
 // Step 1: Strategy Interface
 interface PaymentStrategy {
     void pay(int amount);
